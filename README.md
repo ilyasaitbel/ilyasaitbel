@@ -1,6 +1,11 @@
-<!-- HERO SECTION -->
+<!-- ===================== HERO SECTION ===================== -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=900&lines=I'm+Ilyas+Ait+Benlhoussain;Full+Stack+Developer;PHP+%7C+Laravel+%7C+JavaScript+%7C+React" />
+</p>
+
+<!-- ===================== PROFILE VIEWS ===================== -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ilyasaitbel&label=Profile%20Views&color=38BDF8&style=for-the-badge" alt="profile views" />
 </p>
 
 <p align="center">
@@ -12,7 +17,7 @@
 ## 👨‍💻 About Me
 
 - 💻 Full Stack Developer passionate about building **clean & scalable web applications**
-- ⚙️ Backend: **PHP (Laravel)**  
+- ⚙️ Backend: **PHP (Laravel)**
 - 🎨 Frontend: **JavaScript (React.js, AJAX)**
 - 🧠 Strong fundamentals in **C programming**
 - 🔗 REST APIs & Database-driven applications
