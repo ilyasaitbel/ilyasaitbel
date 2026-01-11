@@ -67,4 +67,12 @@
 
 ## 🤝 Connect With Me
 
-- 🔗 GitHu
+- 🔗 GitHub: https://github.com/ilyasaitbel  
+- 🔗 LinkedIn: https://www.linkedin.com/in/ilyas-ait-benlhoussain  
+- 📧 Email: benlhoussaini.ilyas@gmail.com  
+
+---
+
+<p align="center">
+  🚀 <i>"Code. Learn. Improve."</i>
+</p>
