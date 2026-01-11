@@ -1,11 +1,11 @@
 <!-- ===================== HERO SECTION ===================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=800&color=E5E7EB&center=true&vCenter=true&width=900&lines=I'm+Ilyas+Ait+Benlhoussain;Full+Stack+Developer;PHP+%7C+Laravel+%7C+JavaScript+%7C+React" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=900&lines=I'm+Ilyas+Ait+Benlhoussain;Full+Stack+Developer;PHP+%7C+Laravel+%7C+JavaScript+%7C+React" />
 </p>
 
 <!-- ===================== PROFILE VIEWS ===================== -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ilyasaitbel&label=Profile%20Views&color=555555&style=for-the-badge" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=ilyasaitbel&label=Profile%20Views&color=38BDF8&style=for-the-badge" alt="profile views" />
 </p>
 
 <p align="center">
@@ -49,15 +49,15 @@
 ## 📊 GitHub Stats (Advanced)
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ilyasaitbel&show_icons=true&theme=graywhite&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ilyasaitbel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilyasaitbel&layout=compact&theme=graywhite&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilyasaitbel&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ilyasaitbel&theme=graywhite&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ilyasaitbel&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -72,8 +72,8 @@
 
 ## 🤝 Connect With Me
 
-- GitHub: https://github.com/ilyasaitbel  
-- LinkedIn: https://www.linkedin.com/in/ilyas-ait-benlhoussain  
-- Email: benlhoussaini.ilyas@gmail.com  
+- 🔗 GitHub: https://github.com/ilyasaitbel  
+- 🔗 LinkedIn: https://www.linkedin.com/in/ilyas-ait-benlhoussain  
+- 📧 Email: benlhoussaini.ilyas@gmail.com  
 
 ---
