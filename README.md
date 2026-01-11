@@ -1,29 +1,54 @@
-<!-- ===================== HERO ===================== -->
+<!-- HERO SECTION -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=34&pause=1200&color=00E5FF&center=true&vCenter=true&width=1000&lines=I'm+Ilyas+Ait+Benlhoussain;Full+Stack+Developer;Clean+%26+Scalable+Web+Engineering" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=900&lines=I'm+Ilyas+Ait+Benlhoussain;Full+Stack+Developer;PHP+%7C+Laravel+%7C+JavaScript+%7C+React" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="420" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ilyasaitbel&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="420" alt="coding animation" />
 </p>
 
 ---
 
-<!-- ===================== TECH STACK ===================== -->
+## 👨‍💻 About Me
+
+- 💻 Full Stack Developer passionate about building **clean & scalable web applications**
+- ⚙️ Backend: **PHP (Laravel)**  
+- 🎨 Frontend: **JavaScript (React.js, AJAX)**
+- 🧠 Strong fundamentals in **C programming**
+- 🔗 REST APIs & Database-driven applications
+- 🌱 Always learning and improving
+
+📫 **Contact:** benlhoussaini.ilyas@gmail.com
+
+---
+
+## 🛠️ Languages & Tools
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=php,laravel,js,react,html,css,bootstrap,tailwind,mysql,git,github,c&theme=dark" />
 </p>
 
 ---
 
-<!-- ===================== STATS ===================== -->
+## 📌 Featured Projects
+
+- 🔹 **Campus Planner** – Event & training management web app  
+- 🔹 **OOP Payment System** – PHP Object-Oriented project  
+- 🔹 **Staff Manager** – JavaScript-based management app  
+- 🔹 **C Algorithms** – Problem solving & logic projects  
+
+👉 More projects available on my GitHub repositories.
+
+---
+
+## 📊 GitHub Stats (Advanced)
+
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ilyasaitbel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilyasaitbel&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ilyasaitbel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilyasaitbel&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
@@ -32,21 +57,22 @@
 
 ---
 
-<!-- ===================== ACTIVITY GRAPH ===================== -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ilyasaitbel&theme=tokyo-night&hide_border=true" />
-</p>
+## 🐍 Contribution Snake
 
----
-
-<!-- ===================== SNAKE ===================== -->
 <p align="center">
   <img src="https://github.com/ilyasaitbel/ilyasaitbel/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-<!-- ===================== FOOTER ===================== -->
+## 🤝 Connect With Me
+
+- 🔗 GitHub: https://github.com/ilyasaitbel  
+- 🔗 LinkedIn: https://www.linkedin.com/in/ilyas-ait-benlhoussain  
+- 📧 Email: benlhoussaini.ilyas@gmail.com  
+
+---
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,100:007CF0&height=120&section=footer" />
+  🚀 <i>"Code. Learn. Improve."</i>
 </p>
