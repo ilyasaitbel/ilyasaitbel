@@ -69,21 +69,10 @@
 
 ---
 
-## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ilyasaitbel&show_icons=true&theme=tokyonight" />
+  <img src="https://github.com/ilyasaitbel/ilyasaitbel/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilyasaitbel&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ilyasaitbel&theme=tokyonight" />
-</p>
-
----
 
 ## 🤝 Connect with Me
 
