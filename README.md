@@ -1,6 +1,8 @@
 <div align="center">
-  <!-- Waving Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0D1117,30:161B22,70:0969DA,100:38BDF8&height=220&section=header&text=Ilyas%20Ait%20Benlhoussain&fontSize=42&fontAlignY=36&desc=Junior%20AI%20%26%20Full%20Stack%20Developer%20%7C%20YouCode%20(UM6P)&descFontSize=18&descAlignY=60&fontColor=ffffff" width="100%" alt="Header Banner" />
+  <!-- Self-Hosted High-Resolution Animated Header Banner -->
+  <a href="https://github.com/ilyasaitbel">
+    <img src="https://raw.githubusercontent.com/ilyasaitbel/ilyasaitbel/main/header.svg" width="100%" alt="Ilyas Ait Benlhoussain - Header Banner" />
+  </a>
 
   <!-- Animated Typing SVG -->
   <a href="https://github.com/ilyasaitbel">
@@ -167,5 +169,5 @@ class IlyasAitBenlhoussain:
 
 <!-- Animated Footer Wave Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0D1117,30:161B22,70:0969DA,100:38BDF8&height=120&section=footer" width="100%" alt="Footer Banner" />
+  <img src="https://raw.githubusercontent.com/ilyasaitbel/ilyasaitbel/main/footer.svg" width="100%" alt="Footer Banner" />
 </div>
